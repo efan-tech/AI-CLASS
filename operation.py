@@ -1,9 +1,9 @@
 # these are the ages of students in 2 years 
 students = [
-    {"name": "Albert", "age": 20},
-    {"name": "john", "age": 20},
-    {"name": "frank", "age": 21},
-    {"name": "suzzi", "age": 22}
+    {"name": "mark", "age": 22},
+    {"name": "john", "age": 24},
+    {"name": "paul", "age": 23},
+    {"name": "george", "age": 21}
 ]
 
 print("Ages in 2 years:")
